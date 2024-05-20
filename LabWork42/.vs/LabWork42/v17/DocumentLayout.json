@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LabWork42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPolyLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CPolyLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPolyLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CPolyLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CColoredLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CColoredLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CColoredPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CColoredPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D80CEC41-7C62-4172-A528-29BC3A96908F}|LabWork42\\LabWork42.vcxproj|solutionrelative:LabWork42\\CShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CPolyLine.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPolyLine.cpp",
+              "RelativeDocumentMoniker": "LabWork42\\CPolyLine.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPolyLine.cpp",
+              "RelativeToolTip": "LabWork42\\CPolyLine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T18:33:21.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CPolyLine.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPolyLine.h",
+              "RelativeDocumentMoniker": "LabWork42\\CPolyLine.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPolyLine.h",
+              "RelativeToolTip": "LabWork42\\CPolyLine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:33:06.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CColoredLine.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredLine.cpp",
+              "RelativeDocumentMoniker": "LabWork42\\CColoredLine.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredLine.cpp",
+              "RelativeToolTip": "LabWork42\\CColoredLine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T18:32:49.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CColoredLine.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredLine.h",
+              "RelativeDocumentMoniker": "LabWork42\\CColoredLine.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredLine.h",
+              "RelativeToolTip": "LabWork42\\CColoredLine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:32:34.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CLine.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CLine.cpp",
+              "RelativeDocumentMoniker": "LabWork42\\CLine.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CLine.cpp",
+              "RelativeToolTip": "LabWork42\\CLine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T18:32:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CLine.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CLine.h",
+              "RelativeDocumentMoniker": "LabWork42\\CLine.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CLine.h",
+              "RelativeToolTip": "LabWork42\\CLine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:32:05.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CColoredPoint.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredPoint.cpp",
+              "RelativeDocumentMoniker": "LabWork42\\CColoredPoint.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredPoint.cpp",
+              "RelativeToolTip": "LabWork42\\CColoredPoint.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T18:31:36.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CColoredPoint.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredPoint.h",
+              "RelativeDocumentMoniker": "LabWork42\\CColoredPoint.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CColoredPoint.h",
+              "RelativeToolTip": "LabWork42\\CColoredPoint.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:31:14.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CPoint.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPoint.cpp",
+              "RelativeDocumentMoniker": "LabWork42\\CPoint.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPoint.cpp",
+              "RelativeToolTip": "LabWork42\\CPoint.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T18:31:03.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CPoint.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPoint.h",
+              "RelativeDocumentMoniker": "LabWork42\\CPoint.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CPoint.h",
+              "RelativeToolTip": "LabWork42\\CPoint.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:30:50.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CShape.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CShape.h",
+              "RelativeDocumentMoniker": "LabWork42\\CShape.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\CShape.h",
+              "RelativeToolTip": "LabWork42\\CShape.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T18:30:27.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\main.cpp",
+              "RelativeDocumentMoniker": "LabWork42\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabWork42\\LabWork42\\main.cpp",
+              "RelativeToolTip": "LabWork42\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T19:46:08.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

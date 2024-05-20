@@ -1,0 +1,11 @@
+﻿  AnuAction.cpp
+  Calculation.cpp
+  Exp.cpp
+  Line.cpp
+  Menu.cpp
+C:\Users\user\Desktop\Calculator 2\Calculator\Menu.cpp(12,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Calculator 2\Calculator\Menu.cpp(25,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Tabulation.cpp
+  main.cpp
+  Создание кода...
+  Calculator.vcxproj -> C:\Users\user\Desktop\Calculator 2\x64\Debug\Calculator.exe

@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Calculator 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Exp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Exp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Exp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Exp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\AnyAction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\AnyAction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\AnuAction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\AnuAction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Tabulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Tabulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Tabulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Tabulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Calculation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Calculation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Calculation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Calculation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Action.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Action.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CA4B1F-06C0-4307-8657-5E0503E7FB09}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Action.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Action.h",
+              "RelativeDocumentMoniker": "Calculator\\Action.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Action.h",
+              "RelativeToolTip": "Calculator\\Action.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T15:20:59.517Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exp.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Exp.h",
+              "RelativeDocumentMoniker": "Calculator\\Exp.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Exp.h",
+              "RelativeToolTip": "Calculator\\Exp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T15:10:04.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exp.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Exp.cpp",
+              "RelativeDocumentMoniker": "Calculator\\Exp.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Exp.cpp",
+              "RelativeToolTip": "Calculator\\Exp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T15:14:45.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Menu.cpp",
+              "RelativeDocumentMoniker": "Calculator\\Menu.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Menu.cpp",
+              "RelativeToolTip": "Calculator\\Menu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T15:44:59.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Menu.h",
+              "RelativeDocumentMoniker": "Calculator\\Menu.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Menu.h",
+              "RelativeToolTip": "Calculator\\Menu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T15:40:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnuAction.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\AnuAction.cpp",
+              "RelativeDocumentMoniker": "Calculator\\AnuAction.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\AnuAction.cpp",
+              "RelativeToolTip": "Calculator\\AnuAction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T15:39:10.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnyAction.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\AnyAction.h",
+              "RelativeDocumentMoniker": "Calculator\\AnyAction.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\AnyAction.h",
+              "RelativeToolTip": "Calculator\\AnyAction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T15:37:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tabulation.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Tabulation.cpp",
+              "RelativeDocumentMoniker": "Calculator\\Tabulation.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Tabulation.cpp",
+              "RelativeToolTip": "Calculator\\Tabulation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T15:31:57.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tabulation.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Tabulation.h",
+              "RelativeDocumentMoniker": "Calculator\\Tabulation.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Tabulation.h",
+              "RelativeToolTip": "Calculator\\Tabulation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T15:30:22.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculation.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Calculation.cpp",
+              "RelativeDocumentMoniker": "Calculator\\Calculation.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Calculation.cpp",
+              "RelativeToolTip": "Calculator\\Calculation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T15:26:55.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculation.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Calculation.h",
+              "RelativeDocumentMoniker": "Calculator\\Calculation.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Calculation.h",
+              "RelativeToolTip": "Calculator\\Calculation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T15:24:28.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Line.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Line.cpp",
+              "RelativeDocumentMoniker": "Calculator\\Line.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Line.cpp",
+              "RelativeToolTip": "Calculator\\Line.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T15:19:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Line.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Line.h",
+              "RelativeDocumentMoniker": "Calculator\\Line.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Line.h",
+              "RelativeToolTip": "Calculator\\Line.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T15:18:24.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Function.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Function.h",
+              "RelativeDocumentMoniker": "Calculator\\Function.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\Function.h",
+              "RelativeToolTip": "Calculator\\Function.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T14:55:46.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\main.cpp",
+              "RelativeDocumentMoniker": "Calculator\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Calculator 2\\Calculator\\main.cpp",
+              "RelativeToolTip": "Calculator\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T14:32:49.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
